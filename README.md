@@ -50,12 +50,11 @@ Do not populate both input connector styles on the same board.
 
 ## Usage
 
-1. External PSU (C6P or R7BF style) feeds the selected DC-IN connector on this board.
-2. Board conditions/protects input and generates regulated 12V rail.
-3. Motor power is provided at the Motor Power output terminal.
-4. 12V and GND for the Waveshare board are provided at the ESP/CAN power terminal.
-5. Motor control and comms (CAN/RS485) are handled by the Waveshare board and motor harness.
-6. Configure and run OSSM-RS from https://github.com/ossm-rs/ossm.
+- External PSU (C6P or R7BF style) feeds the selected DC-IN connector on this board.
+- Motor power is provided at the Motor Power output terminal.
+- 12V and GND for the Waveshare board are provided at the ESP/CAN power terminal.
+- Motor control and comms (CAN/RS485) are handled by the Waveshare board and motor harness.
+- Configure and run OSSM-RS from https://github.com/ossm-rs/ossm.
 
 
 Use the wiring diagram image below and verify polarity before first power-up.
