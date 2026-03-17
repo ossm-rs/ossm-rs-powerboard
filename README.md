@@ -78,7 +78,6 @@ Estimated cost per board:
 
 - This is a high-current motor power board; incorrect wiring can damage electronics.
 - Always verify connector pinout/polarity against schematic and wiring diagrams.
-- Start with current-limited power during first test.
 - Keep wiring secure and strain-relieved.
 
 ## Credits
