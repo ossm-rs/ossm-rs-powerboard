@@ -27,7 +27,7 @@ This board is inspired by and builds on the OSSM hardware concept from KinkyMake
     - Meanwell GST220A36-R7BF
     - Meanwell GST360A36-C6P
 
-- Other motor configurations that use 24-36V may also work, but they have not been validated on this board yet.
+Other motor configurations that use 24-36V may also work, but they have not been validated on this board yet.
 
 
 ## Board Variants
