@@ -8,6 +8,8 @@ This board is inspired by and builds on the OSSM hardware concept from KinkyMake
 
 ## What This Board Does
 
+![Powerboard wiring diagram](images/pb_front.jpg)
+
 - Accepts DC input from an external power supply.
 - Provides 24-36v output for the servo motor.
 - Protects from back EMF.
