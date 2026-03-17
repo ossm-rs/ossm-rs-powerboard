@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2026-01-18_19-45-22")(type "KiCad")(uri "${KIPRJMOD}/project_symbols/2026-01-18_19-45-22.kicad_sym")(options "")(descr ""))
+  (lib (name "KPJX-4S")(type "KiCad")(uri "${KIPRJMOD}/project_symbols/KPJX-4S.kicad_sym")(options "")(descr ""))
+  (lib (name "KPJX-4S-S")(type "KiCad")(uri "${KIPRJMOD}/project_symbols/KPJX-4S-S.kicad_sym")(options "")(descr ""))
+)

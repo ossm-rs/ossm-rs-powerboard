@@ -1,0 +1,23 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,MPN,Voltage
+"C1,C21",2,1uF,,,,Capacitor_SMD:C_0603_1608Metric,~,C15849,50V
+"C2,C22",2,470nF,,,,Capacitor_SMD:C_0603_1608Metric,~,C1623,25V
+"C3,C4,C14,C15,C23,C24,C28,C29",8,10uF,,,,Capacitor_SMD:C_1206_3216Metric,~,C89632,"25V,50V"
+"C5,C13,C25,C27",4,100nF,,,,Capacitor_SMD:C_0603_1608Metric,~,C14663,"25V,50V"
+"C6,C26",2,5.1pF,,,,Capacitor_SMD:C_0603_1608Metric,~,C61816,
+"C16,C30",2,2.2uF,,,,Capacitor_SMD:C_0603_1608Metric,~C100082,C23630,16V
+"C17,C31",2,10nF,DNP,,,Capacitor_SMD:C_0603_1608Metric,~,C57112,50V
+"C19,C39",2,1mF,,,,Capacitor_SMD:CP_Elec_16x17.5,~865060663015,C2164559,50V
+"D1,D3",2,D_TVS,,,,Diode_SMD:D_SMC,~,C80273,
+"D2,D4",2,GREEN,,,,LED_SMD:LED_0603_1608Metric,~,C12065,
+"H1,H2,H3,H4,H5,H6,H7,H8",8,MountingHole,,Excluded from BOM,,MountingHole:MountingHole_3.2mm_M3_DIN965,~,-,
+"J1,J22",2,Motor Power,,,,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",~,C8465,
+"J3,J23",2,12V ESP CAN,,,,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal",~,C466970,
+J4,1,Conn_01x06,,,,project_footprints:CONN_SDA-42404_06_MOL,~,C563687,
+J21,1,KPJX-4S,,,,project_footprints:KPJX4S,https://www.kycon.com/Pub_Eng_Draw/KPJX-4S.pdf,C7212564,
+"L1,L2",2,22uH,,,,project_footprints:L_Wurth_WE-PD-1050P,~7447714220,C2651173,
+"R1,R2,R21,R22",4,100k,,,,Resistor_SMD:R_0603_1608Metric,~,C25803,
+"R3,R23",2,10k,,,,Resistor_SMD:R_0603_1608Metric,~,C25804,
+"R4,R24",2,9.1k,,,,Resistor_SMD:R_0603_1608Metric,~,C23260,
+"R5,R25",2,82k,DNP,,,Resistor_SMD:R_0603_1608Metric,~,C23254,
+"R6,R26",2,100,,,,Resistor_SMD:R_0603_1608Metric,~,C22775,
+"U1,U2",2,LM76003,,,,Package_DFN_QFN:Texas_RNP0030B_WQFN-30-1EP_4x6mm_P0.5mm_EP1.8x4.5mm_ThermalVias,https://www.ti.com/lit/ds/symlink/lm76003.pdf,C470958,
